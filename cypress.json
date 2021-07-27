@@ -1,0 +1,16 @@
+{
+    "pageLoadTimeout": 300000,
+    "scrollBehavior": false,
+    "defaultCommandTimeout": 25000,
+    "env": {
+      "url": "https://jdeqa.yleo.us/jde/E1Menu.maf"
+    },
+    "viewportWidth": 1280,
+    "viewportHeight": 1280,
+    "testFiles": "**/*.feature",
+    "retries": {
+      "runMode": 2,
+      "openMode": 2
+    }
+  }
+  
